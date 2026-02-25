@@ -2,13 +2,13 @@
 # Made by Garv
 
 print("=" * 30)
-print("      SIMPLE CALCULATOR")
+print(" SIMPLE CALCULATOR")
 print("=" * 30)
 print("Operations available:")
-print("+  Addition")
-print("-  Subtraction")
-print("*  Multiplication")
-print("/  Division")
+print("+ Addition")
+print("- Subtraction")
+print("* Multiplication")
+print("/ Division")
 print("=" * 30)
 
 try:
