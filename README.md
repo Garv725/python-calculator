@@ -1,6 +1,9 @@
 # A Simple Calculator
 # Made by Garv
 
+```python
+PASTE YOUR CODE HERE
+```
 print("=" * 30)
 print(" SIMPLE CALCULATOR")
 print("=" * 30)
