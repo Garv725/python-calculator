@@ -1,19 +1,37 @@
-# python-calculator
-# Python Simple Calculator
+# A Simple Calculator
+# Made by Garv
 
-A basic console-based calculator built using Python.
+print("=" * 30)
+print("      SIMPLE CALCULATOR")
+print("=" * 30)
+print("Operations available:")
+print("+  Addition")
+print("-  Subtraction")
+print("*  Multiplication")
+print("/  Division")
+print("=" * 30)
 
-## Features
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Error handling for invalid input
-- Protection against division by zero
+try:
+    num1 = float(input("Enter first number: "))
+    op = input("Enter operator (+, -, *, /): ")
+    num2 = float(input("Enter second number: "))
 
-## Purpose
-This project was created to practice basic Python programming concepts
-such as conditionals, user input, and error handling.
+    if op == '+':
+        result = num1 + num2
+    elif op == '-':
+        result = num1 - num2
+    elif op == '*':
+        result = num1 * num2
+    elif op == '/':
+        if num2 == 0:
+            print("Error: Division by zero is not allowed!")
+            exit()
+        result = num1 / num2
+    else:
+        print("Invalid operator! Please use +, -, * or /")
+        exit()
 
-## Author
-Garv
+    print("Result:", result)
+
+except ValueError:
+    print("Error: Please enter valid numbers only!")
