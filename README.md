@@ -1,4 +1,4 @@
-# A Simple Calculator
+# A Python Calculator
 # Made by Garv
 
 📌 Overview
