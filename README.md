@@ -17,8 +17,7 @@ Python 3
 ## ▶️ How to Run : 
 1. Download the calculator.py file.
 2. Open terminal or command prompt.
-3. Run the file using: 
-- python calculator.py
+3. Run the file using: - python calculator.py
 
 ## 📚 Learning Purpose : 
 This project was created to practice:
