@@ -17,7 +17,7 @@ Python 3
 ## ▶️ How to Run : 
 1. Download the calculator.py file.
 2. Open terminal or command prompt.
-3.Run the file using: 
+3. Run the file using: 
 - python calculator.py
 
 ## 📚 Learning Purpose : 
@@ -29,7 +29,7 @@ This project was created to practice:
 
 
 ## 👤 Author : 
-Garv (GitHub: Garv725)
+**Garv (GitHub: Garv725)**
 
 ```python
 print("=" * 30)
