@@ -5,27 +5,27 @@ This is a beginner-level Python calculator project that performs basic arithmeti
 
 ## 🚀 Features : 
 - Addition (+)
-Subtraction (-)
-Multiplication (*)
-Division (/)
-Division by zero handling
-Invalid input handling
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+- Division by zero handling
+- Invalid input handling
 
 ## 🛠️ Technologies Used : 
 Python 3
 
 ## ▶️ How to Run : 
-Download the calculator.py file.
-Open terminal or command prompt.
-Run the file using:
-python calculator.py
+1. Download the calculator.py file.
+2. Open terminal or command prompt.
+3.Run the file using: 
+- python calculator.py
 
 ## 📚 Learning Purpose : 
 This project was created to practice:
-Conditional statements
-User input handling
-Exception handling
-Basic program structure in Python
+- Conditional statements
+- User input handling
+- Exception handling
+- Basic program structure in Python
 
 
 ## 👤 Author : 
