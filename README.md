@@ -1,6 +1,37 @@
 # A Simple Calculator
 # Made by Garv
 
+📌 Overview
+This is a beginner-level Python calculator project that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The program includes proper error handling to ensure smooth execution.
+
+🚀 Features
+Addition (+)
+Subtraction (-)
+Multiplication (*)
+Division (/)
+Division by zero handling
+Invalid input handling
+
+🛠️ Technologies Used
+Python 3
+
+▶️ How to Run
+Download the calculator.py file.
+Open terminal or command prompt.
+Run the file using:
+python calculator.py
+
+📚 Learning Purpose
+This project was created to practice:
+Conditional statements
+User input handling
+Exception handling
+Basic program structure in Python
+
+
+👤 Author
+Garv (GitHub: Garv725)
+
 ```python
 print("=" * 30)
 print(" SIMPLE CALCULATOR")
