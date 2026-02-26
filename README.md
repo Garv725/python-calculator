@@ -4,7 +4,7 @@
 This is a beginner-level Python calculator project that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The program includes proper error handling to ensure smooth execution.
 
 ## 🚀 Features : 
-Addition (+)
+- Addition (+)
 Subtraction (-)
 Multiplication (*)
 Division (/)
